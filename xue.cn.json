@@ -7,11 +7,11 @@
   }
  ],
  "cover": "https://github.com/smallwhite0001/Computer-quick-operation-skills/blob/main/cover_Computer-quick-operation-skills.jpg?raw=true",
- "description": "本册子介绍电脑快速操作的简单技巧和快捷键。",
+ "description": "本册子介绍电脑快速操作的简单技巧和快捷键。包括快速操作的基础 —— 盲打的训练，以及 Windows 和 Mac 快捷键操作。",
  "license": "本册子由 Small white 在 XUE.cn 首发。",
  "name": "电脑快速操作技巧",
  "programming_language": "无",
- "category": "用户上传",
+ "category": "用户上传、电脑办公",
  "authors": [
   {
    "avatar": "https://xue-images.pek3b.qingstor.com/default_avatar.png",
@@ -20,7 +20,7 @@
    "role": "origin"
   }
  ],
- "publish_at": "2022-01-11T00:00:00",
+ "publish_at": "2022-04-19T00:00:00",
  "toc_level": 2,
  "version": "0.5"
 }
